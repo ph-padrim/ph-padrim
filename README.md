@@ -28,6 +28,24 @@ Sou natural de Minas Gerais e um economista com foco em dados e Business Intelli
 
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Bigquery" 
     title="Bigquery"
     width="30px" 
@@ -37,12 +55,13 @@ Sou natural de Minas Gerais e um economista com foco em dados e Business Intelli
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="R" 
+    title="R"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
