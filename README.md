@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Pedro Henrique 
+# 👩🏻‍💻 Pedro Henrique (PH)
 
 **`Analista em BI`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou natural de Minas Gerais e um economista com foco em dados e Business Intelligence. Minha jornada acadêmica começou na Universidade Federal de Viçosa (UFV), onde concluí minha graduação em Economia. Atualmente, estou expandindo minha expertise no mestrado em Economia na Universidade Federal de Minas Gerais (UFMG). Em minha experiência profissional, atuei com People Analytics e, mais recentemente, me aprofundei em Business Intelligence (BI). Utilizo ferramentas analíticas e de engenharia de dados para transformar informações em insights estratégicos. Tenho familiaridade com Looker, SQL, Python, R, GCP, Airflow e IaC (Infraestrutura como Código). Além de minha experiência prática, sou apaixonado por econometria, uma área que me permite aplicar modelos estatísticos para entender relações complexas e impulsionar a tomada de decisões.
 
 <p align="left">
     </a> 
